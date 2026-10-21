@@ -120,4 +120,5 @@ incertidumbre del instrumento, por lo que representa mejor datos experimentales 
 # Mostramos la ventana con los dos graficos
 mlt.show()
 
-
+# Nota: 7.0
+# Base: 1/1; funcionamiento: 4/4; comentarios: 1/1; claridad: 1/1.
